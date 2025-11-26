@@ -27,6 +27,9 @@ Each file reflects my daily learning progress and helps me strengthen problem-so
 To install required modules:
 
 -pip install qrcode
+
 -pip install pyttsx3
+
 -pip install playsound
+
 -pip install matplotlib
